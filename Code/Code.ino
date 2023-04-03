@@ -58,7 +58,7 @@ void loop() {
     // turn LED on
     digitalWrite(ledPin, HIGH);
     // send message from the bot
-    bot.sendMessage(CHAT_ID, "Bing Bong, der Eiermann ist da!", "");
+    bot.sendMessage(CHAT_ID, "Bing Bong, der Eiermann ist da!", ""); // the message is sent here, change it to whatever you like!
 
     // sleep for 500 ms 
     delay(500)
