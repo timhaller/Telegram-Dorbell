@@ -130,7 +130,7 @@ You have to do a few modifications to the code:
 
 ##### 5. Final notes
 
-This project is in now way optimised. I could've used a smaller ESP and have it run off a battery for days, add more buttons for multiple messages, ... But that was not the scope of this project. I wanted to create a quick fix for a small problem I have with parts I had laying around in one evening.
+This project is in now way optimised. I could've used a smaller ESP and have it run off a battery for days, add more buttons for multiple messages, swicth out the sensors for other sensors (for ex a water level sensor that sends me a message whenever my plants need water) But that was not the scope of this project. I wanted to create a quick fix for a small problem I have with parts I had laying around in one evening.
 
 
 Have fun with it!
